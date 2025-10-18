@@ -1,7 +1,7 @@
 name: EasyForm
 version: 1.0.0
 main: easyform\Main
-api: 5.0.0
+api: 5.20.0
 author: Renz
 description: Super simple form API for PocketMine-MP that anyone can use
 website: https://github.com/RenzMc/easyform
